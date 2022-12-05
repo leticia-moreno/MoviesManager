@@ -74,7 +74,7 @@ class MovieActivity : AppCompatActivity() {
             )
             val resultIntent = Intent()
             resultIntent.putExtra(EXTRA_MOVIE, movie)
-            setResult(AppCompatActivity.RESULT_OK, resultIntent)
+            setResult(RESULT_OK, resultIntent)
             finish()
         }
     }

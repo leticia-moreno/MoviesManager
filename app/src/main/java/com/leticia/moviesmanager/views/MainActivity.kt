@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
 
         movieAdapter.notifyDataSetChanged()
 
-        marl = registerForActivityResult(ActivityResultContracts.StartActivityForResult(),) {
+        marl = registerForActivityResult(ActivityResultContracts.StartActivityForResult()) {
                 result ->
             if (result.resultCode == RESULT_OK) {
                 val movie = result.data?.getParcelableExtra<Movie>(EXTRA_MOVIE)
