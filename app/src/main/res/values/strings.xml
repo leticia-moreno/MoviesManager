@@ -4,7 +4,12 @@
     <string name="rating">Rating</string>
     <string name="release_year">Release Year</string>
     <string name="studio">Producer</string>
-    <string name="duration">Duration</string>
+    <string name="duration">Duration (hours)</string>
     <string name="watched">Watched</string>
     <string name="save">Save</string>
+    <string name="remove_movie">Remove Movie</string>
+    <string name="edit_movie">Edit Movie</string>
+    <string name="add_movie">Add movie</string>
+    <string name="orderByName">Order by name</string>
+    <string name="orderByRate">Order by rating</string>
 </resources>

@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PDM/MoviesManager/app/src/main/res/drawable/ic_add.xml" value="0.1" />
         <entry key="..\:/PDM/MoviesManager/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/PDM/MoviesManager/app/src/main/res/layout/activity_movie.xml" value="0.1" />
+        <entry key="..\:/PDM/MoviesManager/app/src/main/res/layout/movie_data.xml" value="0.1" />
         <entry key="..\:/PDM/MoviesManager/app/src/main/res/layout/movie_item.xml" value="0.1" />
         <entry key="..\:/PDM/MoviesManager/app/src/main/res/menu/menu_main.xml" value="0.1841880341880342" />
       </map>
