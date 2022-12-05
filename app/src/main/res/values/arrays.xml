@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="genre">Genre</string-array>
+    <string-array name="genre">
+        <item>Horror</item>
+        <item>Comedy</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>Romance</item>
+        <item>Animated</item>
+        <item>Documentary</item>
+        <item>Fiction</item>
+        <item>Thriller</item>
+    </string-array>
 </resources>
